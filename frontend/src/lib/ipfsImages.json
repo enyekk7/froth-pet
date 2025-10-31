@@ -1,0 +1,20 @@
+{
+  "Common": [
+    "https://ipfs.io/ipfs/QmYourCommonImage1",
+    "https://ipfs.io/ipfs/QmYourCommonImage2",
+    "https://ipfs.io/ipfs/QmYourCommonImage3",
+    "https://ipfs.io/ipfs/QmYourCommonImage4"
+  ],
+  "Uncommon": [
+    "https://ipfs.io/ipfs/QmYourUncommonImage1",
+    "https://ipfs.io/ipfs/QmYourUncommonImage2"
+  ],
+  "Epic": [
+    "https://ipfs.io/ipfs/QmYourEpicImage1",
+    "https://ipfs.io/ipfs/QmYourEpicImage2"
+  ],
+  "Legendary": [
+    "https://ipfs.io/ipfs/QmYourLegendaryImage1"
+  ]
+}
+
